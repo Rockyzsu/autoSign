@@ -1,4 +1,4 @@
-## 夸克网盘自动签到
+## 夸克网盘自动签到 - fun
 
 ### 设置全局环境变量cookie
 1. settings点击之后左边菜单的Security-> secrets and variables->actions
